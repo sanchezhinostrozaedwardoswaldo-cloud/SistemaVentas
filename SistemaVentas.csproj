@@ -58,6 +58,12 @@
     <Compile Include="oswaldo.Designer.cs">
       <DependentUpon>oswaldo.cs</DependentUpon>
     </Compile>
+    <Compile Include="oswaldo2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="oswaldo2.Designer.cs">
+      <DependentUpon>oswaldo2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
