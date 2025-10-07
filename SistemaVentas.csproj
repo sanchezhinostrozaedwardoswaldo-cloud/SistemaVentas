@@ -81,6 +81,9 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="josue.resx">
+      <DependentUpon>josue.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="oswaldo.resx">
       <DependentUpon>oswaldo.cs</DependentUpon>
     </EmbeddedResource>
@@ -109,6 +112,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\estante de pociones.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesss.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
